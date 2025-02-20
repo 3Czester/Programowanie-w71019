@@ -1,0 +1,84 @@
+% ********** Rozdział 1 **********
+\chapter{Opis założeń projektu}
+\section{Cele projetu}
+%\subsection{Tytuł pierwszego podpunktu}
+
+Celem projektu jest stworzenie systemu zarządzania parkingiem, który umożliwi efektywne monitorowanie i kontrolowanie zajętości miejsc parkingowych w zorganizowany sposób. System ma zapewniać:
+Automatyzację procesów:
+Obsługa przyjazdów i odjazdów pojazdów.
+Automatyczna weryfikacja dostępności miejsc parkingowych w zależności od wymagań przestrzennych różnych typów pojazdów.
+Wizualizację stanu parkingu:
+Czytelna i intuicyjna reprezentacja graficzna zajętości parkingu w konsoli za pomocą znaków tekstowych.
+Rejestrację zdarzeń:
+Przechowywanie informacji o każdym zdarzeniu, takim jak przyjazdy i odjazdy pojazdów, wraz z datą i godziną.
+Możliwość przeszukiwania historii na podstawie numeru rejestracyjnego pojazdu lub zakresu czasowego.
+Wsparcie dla różnych typów pojazdów:
+Obsługa motocykli, samochodów osobowych oraz autobusów, z uwzględnieniem różnej liczby miejsc zajmowanych przez te pojazdy.
+Ułatwienie zarządzania przestrzenią parkingową:
+Zwiększenie przejrzystości stanu zajętości miejsc.
+Szybkie znajdowanie informacji o pojazdach zaparkowanych lub już odjeżdżających.
+Dzięki wdrożeniu tego systemu możliwe jest zwiększenie wydajności operacyjnej parkingu, zminimalizowanie błędów w alokacji miejsc oraz ułatwienie pracy personelu zarządzającego parkingiem. System jest również skalowalny i może zostać zaadaptowany do różnej wielkości parkingów oraz dodatkowych wymagań użytkowników.
+
+\end{itemize}
+
+
+\section{Wymagania funkcjonale i niefunkcjonalne}
+
+\noindent \textbf{Wymagania funkcjonalne}
+\begin{itemize}
+    \item Wymagania funkcjonalne
+Zarządzanie pojazdami:
+
+\item Możliwość dodawania pojazdu na parking z określeniem numeru rejestracyjnego oraz wymagań przestrzennych (typ pojazdu).
+\item Usuwanie pojazdu z parkingu na podstawie numeru rejestracyjnego.
+\item Walidacja dostępności miejsca:
+
+\item Weryfikacja, czy wskazane miejsce parkingowe jest dostępne dla danego typu pojazdu.
+\item Blokada dodawania pojazdu, jeśli miejsca są zajęte lub wykraczają poza granice parkingu.
+\item Wizualizacja parkingu:
+
+\item Wyświetlanie aktualnego stanu parkingu w konsoli w formie graficznej (np. znaki tekstowe reprezentujące zajętość miejsc: M dla motocykli, C dla samochodów, B dla autobusów).
+Historia zdarzeń:
+
+\item Rejestrowanie informacji o każdym przyjeździe i odjeździe pojazdu, w tym numeru rejestracyjnego, typu pojazdu, zajętych miejsc oraz daty i godziny zdarzenia.
+Wyszukiwanie pojazdów i zdarzeń:
+
+Możliwość wyszukiwania informacji o pojazdach w historii zdarzeń na podstawie:
+Numeru rejestracyjnego.
+Daty i godziny przyjazdu lub odjazdu.
+
+\end{itemize}
+
+\noindent \textbf{Wymagania niefunkcjonalne }
+\begin{itemize}
+
+\item System powinien działać płynnie przy obsłudze parkingów o różnej wielkości (od kilkunastu do kilkuset miejsc).
+
+\item Skalowalność:
+Projekt powinien umożliwiać łatwe dostosowanie do większych parkingów lub nowych typów pojazdów.
+Czytelność interfejsu:
+
+\item Wizualizacja parkingu powinna być czytelna i intuicyjna dla użytkownika, umożliwiając szybkie zrozumienie aktualnego stanu zajętości miejsc.
+Niezawodność:
+
+\item System powinien zapobiegać błędom, takim jak umieszczanie dwóch pojazdów na tym samym miejscu lub dodawanie pojazdu poza granice parkingu.
+Przechowywanie danych:
+
+\item Historia zdarzeń powinna być przechowywana w sposób trwały (np. w pamięci programu podczas działania lub w pliku).
+Łatwość rozbudowy:
+
+\item Kod powinien być modularny i dobrze udokumentowany, aby umożliwić łatwe dodawanie nowych funkcjonalności lub modyfikację istniejących.
+Użyteczność:
+
+\item System powinien być prosty w obsłudze, zarówno dla operatorów, jak i dla osób zarządzających parkingiem.
+Bezpieczeństwo danych:
+
+\item Numer rejestracyjny i inne informacje powinny być przechowywane w sposób bezpieczny, zgodnie z wymogami ochrony danych (np. w kontekście RODO, jeśli dotyczy).
+
+\end{itemize}
+ 
+
+
+
+
+% ********** Koniec rozdziału **********

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Casper_Czech_w71019\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6E007A-2072-414B-A87B-BF8CA0AEA287}|Casper_Czech_w71019\\Casper_Czech_w71019.csproj|c:\\users\\pc\\source\\repos\\casper_czech_w71019\\casper_czech_w71019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6E007A-2072-414B-A87B-BF8CA0AEA287}|Casper_Czech_w71019\\Casper_Czech_w71019.csproj|solutionrelative:casper_czech_w71019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6E007A-2072-414B-A87B-BF8CA0AEA287}|Casper_Czech_w71019\\Casper_Czech_w71019.csproj|c:\\users\\pc\\source\\repos\\casper_czech_w71019\\casper_czech_w71019\\pojazd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6E007A-2072-414B-A87B-BF8CA0AEA287}|Casper_Czech_w71019\\Casper_Czech_w71019.csproj|solutionrelative:casper_czech_w71019\\pojazd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6E007A-2072-414B-A87B-BF8CA0AEA287}|Casper_Czech_w71019\\Casper_Czech_w71019.csproj|c:\\users\\pc\\source\\repos\\casper_czech_w71019\\casper_czech_w71019\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6E007A-2072-414B-A87B-BF8CA0AEA287}|Casper_Czech_w71019\\Casper_Czech_w71019.csproj|solutionrelative:casper_czech_w71019\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6E007A-2072-414B-A87B-BF8CA0AEA287}|Casper_Czech_w71019\\Casper_Czech_w71019.csproj|c:\\users\\pc\\source\\repos\\casper_czech_w71019\\casper_czech_w71019\\motocykl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6E007A-2072-414B-A87B-BF8CA0AEA287}|Casper_Czech_w71019\\Casper_Czech_w71019.csproj|solutionrelative:casper_czech_w71019\\motocykl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6E007A-2072-414B-A87B-BF8CA0AEA287}|Casper_Czech_w71019\\Casper_Czech_w71019.csproj|c:\\users\\pc\\source\\repos\\casper_czech_w71019\\casper_czech_w71019\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6E007A-2072-414B-A87B-BF8CA0AEA287}|Casper_Czech_w71019\\Casper_Czech_w71019.csproj|solutionrelative:casper_czech_w71019\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6E007A-2072-414B-A87B-BF8CA0AEA287}|Casper_Czech_w71019\\Casper_Czech_w71019.csproj|c:\\users\\pc\\source\\repos\\casper_czech_w71019\\casper_czech_w71019\\autobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6E007A-2072-414B-A87B-BF8CA0AEA287}|Casper_Czech_w71019\\Casper_Czech_w71019.csproj|solutionrelative:casper_czech_w71019\\autobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Autobus.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Casper_Czech_w71019\\Casper_Czech_w71019\\Autobus.cs",
+              "RelativeDocumentMoniker": "Casper_Czech_w71019\\Autobus.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Casper_Czech_w71019\\Casper_Czech_w71019\\Autobus.cs",
+              "RelativeToolTip": "Casper_Czech_w71019\\Autobus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:52:44.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Samochod.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Casper_Czech_w71019\\Casper_Czech_w71019\\Samochod.cs",
+              "RelativeDocumentMoniker": "Casper_Czech_w71019\\Samochod.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Casper_Czech_w71019\\Casper_Czech_w71019\\Samochod.cs",
+              "RelativeToolTip": "Casper_Czech_w71019\\Samochod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:52:18.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Motocykl.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Casper_Czech_w71019\\Casper_Czech_w71019\\Motocykl.cs",
+              "RelativeDocumentMoniker": "Casper_Czech_w71019\\Motocykl.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Casper_Czech_w71019\\Casper_Czech_w71019\\Motocykl.cs",
+              "RelativeToolTip": "Casper_Czech_w71019\\Motocykl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:51:23.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parking.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Casper_Czech_w71019\\Casper_Czech_w71019\\Parking.cs",
+              "RelativeDocumentMoniker": "Casper_Czech_w71019\\Parking.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Casper_Czech_w71019\\Casper_Czech_w71019\\Parking.cs",
+              "RelativeToolTip": "Casper_Czech_w71019\\Parking.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:12:35.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pojazd.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Casper_Czech_w71019\\Casper_Czech_w71019\\Pojazd.cs",
+              "RelativeDocumentMoniker": "Casper_Czech_w71019\\Pojazd.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Casper_Czech_w71019\\Casper_Czech_w71019\\Pojazd.cs",
+              "RelativeToolTip": "Casper_Czech_w71019\\Pojazd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:11:59.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Casper_Czech_w71019\\Casper_Czech_w71019\\Program.cs",
+              "RelativeDocumentMoniker": "Casper_Czech_w71019\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Casper_Czech_w71019\\Casper_Czech_w71019\\Program.cs",
+              "RelativeToolTip": "Casper_Czech_w71019\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:21:38.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

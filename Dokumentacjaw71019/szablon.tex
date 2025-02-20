@@ -1,0 +1,65 @@
+% **** Szablon pracy magisterskiej, licencjackiej lub inżynierskiej ****
+
+\documentclass[polish,12pt,twoside,a4paper]{report}
+
+
+
+\input{style.tex}
+
+%definicja przydatnych poleceń
+\newcommand{\wydzial}{KOLEGIUM INFORMATYKI STOSOWANEJ}
+\newcommand{\kierunek}{Kierunek: INFORMATYKA}
+\newcommand{\specjalnosc}{Specjalność: {Inżynieria Danych (ID)}}
+\newcommand{\autor}{Casper Czech}
+\newcommand{\album}{Nr albumu studenta w71019}
+\newcommand{\temat}{System obsługi parkingu}
+\newcommand{\promotor}{mgr inż. Ewa Żesławska}
+\newcommand{\typpracy}{Praca projektowa programowanie obiekotwe C\#}
+\newcommand{\miasto}{Rzeszów}
+\newcommand{\rok}{2025}
+
+\begin{document}
+
+% *************** Włączenie definicji pierwszych stron ***************
+\input{front.tex}
+
+
+% *************** Część główna pracy ***************
+\input{wstep.tex}
+\addcontentsline{toc}{chapter}{Wstęp}
+\newpage
+\input{R1.tex}
+\newpage
+\input{R2.tex}
+\newpage
+\input{R3.tex}
+\newpage
+\input{R4.tex}
+\newpage
+\input{R5.tex}
+\newpage
+\input{R6.tex}
+\newpage
+
+% *************** Bibliografia ***************
+\begin{thebibliography}{9}
+\addcontentsline{toc}{chapter}{Bibliografia}
+
+\bibitem{csharp_podstawy} Piotr Wróblewski, {\it C# 10.0. Wprowadzenie do programowania}, Wydawnictwo Helion, Gliwice 2022.  
+\bibitem{csharp_zaawansowane} Krzysztof Foltak, {\it C#. Praktyczny kurs. Wydanie IV}, Wydawnictwo Helion, Gliwice 2021.  
+\bibitem{csharp_wzorce} Leszek Grzesiak, {\it Wzorce projektowe w C#}, Wydawnictwo Helion, Gliwice 2020.  
+\bibitem{programowanie_obiektowe} Grzegorz Dunikowski, {\it Programowanie obiektowe w języku C#}, Wydawnictwo Helion, Gliwice 2019.  
+\bibitem{bazy_danych} Marek Konieczny, {\it Bazy danych i ich integracja z C#}, Wydawnictwo Helion, Gliwice 2021.  
+\bibitem{git} Rafał Kuć, {\it Git. Rozproszony system kontroli wersji}, Wydawnictwo Helion, Gliwice 2020.  
+\bibitem{zarzadzanie_projektami} Roman Kotapski, {\it Zarządzanie projektami. Metody, narzędzia, techniki}, Wydawnictwo PWE, Warszawa 2018.  
+\bibitem{smart_parking} Tomasz Górski, {\it Inteligentne systemy transportowe}, Wydawnictwo Naukowe PWN, Warszawa 2022.  
+
+\end{thebibliography}
+\newpage
+
+
+% *************** Zakończenie ***************
+\input{back.tex}
+
+\end{document}
+% *************** Koniec pliku szablon.tex ***************

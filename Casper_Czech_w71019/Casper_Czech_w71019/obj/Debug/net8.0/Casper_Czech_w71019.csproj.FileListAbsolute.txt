@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Casper_Czech_w71019\Casper_Czech_w71019\obj\Debug\net8.0\Casper_Czech_w71019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Casper_Czech_w71019\Casper_Czech_w71019\obj\Debug\net8.0\Casper_Czech_w71019.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Casper_Czech_w71019\Casper_Czech_w71019\obj\Debug\net8.0\Casper_Czech_w71019.AssemblyInfo.cs
+C:\Users\PC\source\repos\Casper_Czech_w71019\Casper_Czech_w71019\obj\Debug\net8.0\Casper_Czech_w71019.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Casper_Czech_w71019\Casper_Czech_w71019\bin\Debug\net8.0\Casper_Czech_w71019.exe
+C:\Users\PC\source\repos\Casper_Czech_w71019\Casper_Czech_w71019\bin\Debug\net8.0\Casper_Czech_w71019.deps.json
+C:\Users\PC\source\repos\Casper_Czech_w71019\Casper_Czech_w71019\bin\Debug\net8.0\Casper_Czech_w71019.runtimeconfig.json
+C:\Users\PC\source\repos\Casper_Czech_w71019\Casper_Czech_w71019\bin\Debug\net8.0\Casper_Czech_w71019.dll
+C:\Users\PC\source\repos\Casper_Czech_w71019\Casper_Czech_w71019\bin\Debug\net8.0\Casper_Czech_w71019.pdb
+C:\Users\PC\source\repos\Casper_Czech_w71019\Casper_Czech_w71019\obj\Debug\net8.0\Casper_Czech_w71019.dll
+C:\Users\PC\source\repos\Casper_Czech_w71019\Casper_Czech_w71019\obj\Debug\net8.0\refint\Casper_Czech_w71019.dll
+C:\Users\PC\source\repos\Casper_Czech_w71019\Casper_Czech_w71019\obj\Debug\net8.0\Casper_Czech_w71019.pdb
+C:\Users\PC\source\repos\Casper_Czech_w71019\Casper_Czech_w71019\obj\Debug\net8.0\Casper_Czech_w71019.genruntimeconfig.cache
+C:\Users\PC\source\repos\Casper_Czech_w71019\Casper_Czech_w71019\obj\Debug\net8.0\ref\Casper_Czech_w71019.dll
